@@ -2,18 +2,18 @@ RELATÓRIO DE LIMPEZA DE CAIXAS
 Referente ao mês 10/2025
 ==================================================
 
-Caixa: teste
-Última Limpeza: 12/04/2025
-Próxima Limpeza: 09/10/2025
-Histórico: LIMPEZA
---------------------------------------------------
-Caixa: teste3
-Última Limpeza: 13/04/2025
-Próxima Limpeza: 10/10/2025
+Caixa: caixa
+Última Limpeza: 14/04/2025
+Próxima Limpeza: 11/10/2025
 Histórico: 
 --------------------------------------------------
-Caixa: caixa1
-Última Limpeza: 12/04/2025
-Próxima Limpeza: 09/10/2025
+Caixa: novo_teste1
+Última Limpeza: 14/04/2025
+Próxima Limpeza: 11/10/2025
+Histórico: 
+--------------------------------------------------
+Caixa: teste5_teste
+Última Limpeza: 15/04/2025
+Próxima Limpeza: 12/10/2025
 Histórico: 
 --------------------------------------------------
